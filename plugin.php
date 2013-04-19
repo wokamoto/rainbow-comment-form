@@ -1,10 +1,10 @@
 <?php 
 /* 
-Plugin Name: Rainbowify
-Description: The WordPress user interface needs more rainbows.
-Author: Otto
+Plugin Name: Rainbow Comment Form
+Description: The WordPress comment form needs more rainbows.
+Author: wokamoto
 Author URI: http://dogmap.jp
-Version: 0.1
+Version: 0.3
 */
 
 add_action( 'wp_head', 'rainbowify_comment_form' );
